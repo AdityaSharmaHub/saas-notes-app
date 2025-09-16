@@ -73,7 +73,7 @@ body {
   }
   
   .input-field {
-    @apply block w-full rounded-md border border-gray-300 shadow-sm focus:border-primary-500 focus:ring-primary-500 p-2;
+    @apply block w-full rounded-md border border-gray-300 shadow-sm focus:border-primary-500 focus:ring-primary-500 py-2 px-3;
   }
   
   .card {
