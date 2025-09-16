@@ -2,6 +2,10 @@
 
 A **Multi-tenant SaaS Notes App** with authentication, role-based access control, subscription management, and a modern responsive UI. Built using **Next.js (frontend)** and **Express.js + PostgreSQL (backend)**, this project demonstrates full-stack SaaS architecture with secure multi-tenancy.
 
+### Live URLs -
+- **Frontend** - [saas-notes-app-client.vercel.app](https://saas-notes-app-client.vercel.app)
+- **Backend** - [saas-notes-app-server.vercel.app](https://saas-notes-app-server.vercel.app)
+
 ## Features
 
 ### Authentication & Authorization
@@ -67,7 +71,7 @@ A **Multi-tenant SaaS Notes App** with authentication, role-based access control
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/saas-notes-app.git
+git clone https://github.com/adityasharmahub/saas-notes-app.git
 cd saas-notes-app
 ```
 
